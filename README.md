@@ -1,1 +1,3 @@
-# Face-Mesh-Using-Mediapipe
+# Facial landmark detection made with MediaPipe
+
+![output.png](output.png)
